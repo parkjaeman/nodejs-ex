@@ -1,4 +1,5 @@
 //  OpenShift sample Node application
+// Forked by JMP
 var express = require('express'),
     app     = express(),
     morgan  = require('morgan');
